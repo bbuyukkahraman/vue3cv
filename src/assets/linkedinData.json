@@ -1,0 +1,11 @@
+{
+  "name": "Adınız Soyadınız",
+  "title": "Yazılım Geliştirici",
+  "experience": [
+    {
+      "company": "Örnek Şirket",
+      "role": "Yazılım Mühendisi",
+      "years": "2018-2022"
+    }
+  ]
+}
