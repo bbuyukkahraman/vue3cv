@@ -1,7 +1,7 @@
 <template>
   <section>
     <h2>About</h2>
-    <p>Bülent Büyükkahraman graduated from Istanbul Technical University's Department of Electronics and Communication Engineering in 1996. Throughout his career, he has successfully held various cybersecurity roles ranging from engineering to directorship at international companies such as IBM, Nokia, Coca-Cola, and leading Turkish companies such as Anadolu Group, Turkcell, and Netaş. He established the Axoss Cybersecurity Academy, contributing to the development of the workforce in the cybersecurity industry. Since 2022, he has been continuing his work as the Cybersecurity Director of Anadolu Group.</p>
+    <p>A seasoned professional with a distinguished career in cybersecurity, Bülent Büyükkahraman graduated from Istanbul Technical University with a degree in Electronics and Communication Engineering in 1996. Over the years, he has held pivotal roles at globally renowned organizations, including IBM, Nokia, and Coca-Cola, as well as prominent Turkish companies such as Anadolu Group, Turkcell, and Netaş. His leadership journey spans from hands-on engineering to strategic directorship, consistently driving innovation and resilience in cybersecurity. As the founder of Axoss Cybersecurity Academy, he has actively contributed to cultivating talent and advancing the cybersecurity workforce, showcasing a commitment to both industry growth and community impact. Since 2022, he has been serving as the Cybersecurity Director at Anadolu Group, continuing to lead with expertise, integrity, and a vision for the future of digital security.</p>
   </section>
 </template>
 
